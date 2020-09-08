@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scan Once</string>
+    <string name="scan_once">Scan once</string>
+    <string name="scan_text">Please, scan your ID</string>
+    <string name="scan_text_warning">Scanned today, please come back tomorrow</string>
+    <string name="scan_pref_key">scan_status</string>
+</resources>
